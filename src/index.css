@@ -12,3 +12,12 @@
   padding-left: 100px;
   padding-right: 100px;
 }
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  background: none;
+}
