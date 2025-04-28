@@ -4,7 +4,7 @@ import styles from "./Header.module.css";
 
 const Header = () => {
   return (
-    <header>
+    <header className="container">
       <h1>Header</h1>
     </header>
   );
